@@ -406,7 +406,7 @@ h1 {
 }
 
 .counter {
-    background-image: url("img/oracion.JPG");
+    background-image: url("oracion.JPG");
     background-size: cover;
     background-repeat: no-repeat;
     height: 40vh;
